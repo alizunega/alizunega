@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**alizunega/alizunega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on ...improving my development skills, looking for my path...
 - 🌱 I’m currently learning ...Node.js, Python, next...React.
@@ -12,4 +9,4 @@
 - 📫 How to reach me: Telegram: @AlitaZ16
 - 😄 Pronouns: ... She / Her - Ella 
 - ⚡ Fun fact: ... 
--->
+
